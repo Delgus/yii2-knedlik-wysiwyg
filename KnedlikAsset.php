@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class KnedlikAsset extends AssetBundle
 {
-    public $sourcePath = '@runtime/tmp-extensions/yii2-knedlik-wysiwyg/assets/';
+    public $sourcePath = '@vendor/delgus/yii2-knedlik-wysiwyg/assets/';
     public $js = [
         'knedlik.js'
     ];
