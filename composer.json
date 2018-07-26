@@ -1,0 +1,21 @@
+{
+    "name": "delgus/yii2-knedlik-wysiwyg",
+    "description": "The extension for using  the Kendlik editor",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","wysiwyg"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Delgus",
+            "email": "alexdolgovak47@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "delgus\\knedlik\\": ""
+        }
+    }
+}
