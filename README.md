@@ -1,4 +1,4 @@
-Knedlick-wysiwyg
+Knedlik-wysiwyg
 ================
 The extension for using  the Kendlik editor
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist delgus/yii2-knedlick-wysiwyg=dev-master
+php composer.phar require --prefer-dist delgus/yii2-knedlik-wysiwyg=dev-master
 ```
 
 or add
 
 ```
-"delgus/yii2-knedlick-wysiwyg": "dev-master"
+"delgus/yii2-knedlik-wysiwyg": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
